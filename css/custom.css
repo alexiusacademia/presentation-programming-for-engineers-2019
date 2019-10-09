@@ -9,3 +9,7 @@
 .col-right {
     flex: 3;
 }
+
+span .h3 {
+    font-size: 3em;
+}
