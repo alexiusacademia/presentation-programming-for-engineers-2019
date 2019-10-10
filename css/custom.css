@@ -19,3 +19,23 @@ span .h3 {
     font-weight: bolder !important;
     color: red;
 }
+
+.f1 {
+    font-size: 1em;
+}
+
+.f2 {
+    font-size: 1.2em;
+}
+
+.f3 {
+    font-size: 1.4em;
+}
+
+.f4 {
+    font-size: 1.6em;
+}
+
+.f5 {
+    font-size: 2em;
+}
